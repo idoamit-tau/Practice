@@ -15,6 +15,6 @@ public class First {
         b = 16;
         a = a<<8;
         System.out.println(a);
-
+        System.out.println("Differnce");
     }
 }
